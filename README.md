@@ -1,4 +1,4 @@
-# IT326-Mining-proje
+# IT326-Mining-project
 # Student Adaptability Level Classification
 
 ## Project Description
