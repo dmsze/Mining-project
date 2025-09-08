@@ -20,5 +20,5 @@ This problem is important because it connects directly to the quality of educati
 ## Students
 - [Rand Aldahmash 445202375]  
 - [Haifa Alromaih 445204196]  
-- [Deyma Alsughayyir 445201224]  
-- [Hetaf Almazro 445200317]
+- [Deyma Alseghayir 445201224]  
+- [Hetaf Almazroa 445200317]
