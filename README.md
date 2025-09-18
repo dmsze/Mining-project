@@ -15,7 +15,7 @@ Online education has become an essential part of modern learning, especially aft
 - Institutions design better learning strategies tailored to student needs.  
 - Researchers understand factors that affect adaptability and improve e-learning systems.  
 
-This problem is important because it connects directly to the quality of education and student success in a digital era.
+This topic is important because it connects directly to the quality of education and student success in a digital era.
 
 ## Students
 - [Rand Aldahmash 445202375]  
